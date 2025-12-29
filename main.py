@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df=pd.read_csv(r"E:\python\python study advanced\projects\student marks analyzer\marks.csv")
+df=pd.read_csv("marks.csv")
 
 # print(df)
 
